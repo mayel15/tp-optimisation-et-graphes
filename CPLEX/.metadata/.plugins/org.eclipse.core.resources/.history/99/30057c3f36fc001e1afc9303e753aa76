@@ -1,0 +1,57 @@
+/*********************************************
+ * OPL 22.1.1.0 Model
+ * Author: papemayeldiagnethiam
+ * Creation Date: Apr 16, 2024 at 9:47:28 PM
+ *********************************************/
+tuple edge
+{
+   key int o;
+   key int d;
+   int weight;
+}
+
+{edge} edges=...;
+
+{int} nodes={i.o | i in edges} union {i.d | i in edges};
+int st=1; // start
+int en=8; // end
+
+dvar int obj; // distance
+dvar boolean x[edges]; // do we use that edge ?
+
+minimize obj;
+
+subject to
+{
+obj==sum(e in edges) x[e]*e.weight;
+
+forall(i in nodes)
+    sum(e in edges:e.o==i) x[e]
+    -sum(e in edges:e.d==i) x[e]    
+    ==
+    ((i==st)?1:((i==en)?(-1):0));
+}
+
+{edge} shortestPath={e | e in edges : x[e]==1};
+
+execute
+{
+writeln(shortestPath);
+
+}
+
+execute {
+    var file = new IloOplInputFile("exo1kk.txt");
+    var line;
+    var data = file.readline();
+    while (data != null) {
+        var tokens = strtok(data, " ");
+        var e = edge();
+        e.o = atoi(tokens[0]);
+        e.d = atoi(tokens[1]);
+        e.weight = atoi(tokens[2]);
+        edges.add(e);
+        data = file.readline();
+    }
+    file.close();
+}
