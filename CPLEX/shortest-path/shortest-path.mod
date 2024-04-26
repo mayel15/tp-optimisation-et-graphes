@@ -38,7 +38,7 @@ execute
 {
   
 writeln(shortestPath);
-var file = new IloOplOutputFile("../../tp-optimisation-et-graphes/solution_shortest_path.txt");
+var file = new IloOplOutputFile("../../src/solution_shortest_path.txt");
 file.writeln(shortestPath);
 file.close();
 

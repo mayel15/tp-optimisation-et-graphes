@@ -1,0 +1,53 @@
+/*********************************************
+ * OPL 22.1.1.0 Model
+ * Author: papemayeldiagnethiam
+ * Creation Date: Apr 23, 2024 at 10:57:45 AM
+ *********************************************/
+
+// definir le nombre de nodes 
+int nbvilles = 100;
+
+// definir les index
+range villes = 1..nbvilles;
+
+// c est le cout ou le distance entre deux villes; creer les couts 
+float c[i in villes][j in villes] = rand(10);
+
+range ss = 1..ftoi(round(pow(2, nbvilles-1)));
+
+{int} sub [s in ss] = { i | i in 1..nbvilles: (s div ftoi(pow(2, (i-1)))) mod 2 == 1 };
+
+dvar boolean x[villes][villes];
+
+minimize sum (i,j  in villes)c[i][j]*x[i][j];
+
+subject to {
+  
+  // contraintes 
+  forall(j in villes) sum (i in villes)x[i][j] == 1;
+  forall(i in villes) sum (j in villes)x[i][j] == 1;
+  
+  // contraintes pour éliminer les sous tours
+  forall(s in ss: 2<card(sub[s])<nbvilles) sum (i, j in sub[s]) x[i][j] <= card(sub[s])-1;
+  
+}
+
+execute POSTPROCESS {
+  var a = 1;
+  for (var b= 1; b < nbvilles+1; b++) {
+    for (var c= 1; c < nbvilles+1; c++) {
+      if (x[a][c]>0) {
+        write(a);
+        a=c;
+        if(a==1){
+          b=nbvilles+1;
+          break;
+        }
+        
+        else {
+          write("->")
+        }
+      }
+  	}    
+  }
+}

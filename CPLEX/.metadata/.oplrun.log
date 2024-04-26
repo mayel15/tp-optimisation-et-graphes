@@ -802,3 +802,384 @@ Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnet
 
 !ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-19 00:14:17.185
 !MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/shortest-path
+!SESSION 2024-04-19 16:21:57.245 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-19 16:21:57.245
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/shortest-path
+!SESSION 2024-04-19 16:43:00.924 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-19 16:43:00.924
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/shortest-path
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-19 16:43:01.038
+!MESSAGE Unbounded model, try to disable presolve
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2024-04-22 14:52:26.251
+!MESSAGE No OPL IDE for this oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2024-04-22 14:52:26.356
+!MESSAGE concert_wrap.IloEndMT
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-04-22 14:52:26.717
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: ilog.odms.ide.opllang.remote.mbean.IloOplrunRemote$HeartBeatListenerJob
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-04-22 14:52:26.737
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: ilog.odms.ide.opllang.run.IloAbstractRunShell$RequestDispatcherJob
+!SESSION 2024-04-23 11:34:09.843 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:34:09.843
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/shortest-path
+!SESSION 2024-04-23 11:34:48.106 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:34:48.106
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:36:18.323 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:36:18.323
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:37:03.403 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:37:03.403
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:38:49.183 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:38:49.183
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2024-04-23 11:38:49.211
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:240)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:139)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2024-04-23 11:38:49.212
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:240)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:139)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2024-04-23 11:40:06.318 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:40:06.318
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:45:52.342 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:45:52.342
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:48:50.069 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:48:50.069
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:49:30.520 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:49:30.520
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:50:15.199 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:50:15.199
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:52:00.163 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:52:00.163
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:55:53.998 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:55:53.998
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:56:21.538 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:56:21.538
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:57:10.221 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:57:10.221
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2024-04-23 11:57:10.443
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Processing failed.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_solveAlgorithm(Native Method)
+	at ilog.opl.IloOplModel.solveAlgorithm(IloOplModel.java:486)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:234)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:177)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:163)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2024-04-23 11:58:56.177 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:58:56.178
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 11:59:27.333 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 11:59:27.333
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2024-04-23 11:59:27.495
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Processing failed.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_solveAlgorithm(Native Method)
+	at ilog.opl.IloOplModel.solveAlgorithm(IloOplModel.java:486)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:234)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:177)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:163)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2024-04-23 12:00:15.935 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 12:00:15.936
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 12:00:29.065 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 12:00:29.065
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 12:01:05.971 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 12:01:05.972
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2024-04-23 12:01:05.998
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:240)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:139)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2024-04-23 12:01:05.999
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:240)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:139)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2024-04-23 12:01:30.447 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 12:01:30.447
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 12:02:41.567 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 12:02:41.568
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp
+!SESSION 2024-04-23 12:05:21.881 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2024-04-23 12:05:21.881
+!MESSAGE Run Configuration1 in /Users/papemayeldiagnethiam/Desktop/FISA INFO 4/Optimisation et Graphes/TPs/CPLEX/tsp

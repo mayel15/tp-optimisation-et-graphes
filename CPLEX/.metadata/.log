@@ -408,3 +408,74 @@ java.io.IOException: Stream closed
 !MESSAGE Help document /org.eclipse.wst.jsdt.doc/reference/api/org/eclipse/wst/jsdt/ui/text/package-summary.html cannot be opened.
 !SUBENTRY 1 org.eclipse.help.base 4 4 2024-04-16 22:30:44.949
 !MESSAGE Help document /org.eclipse.wst.jsdt.doc/reference/api/org/eclipse/wst/jsdt/core/refactoring/package-summary.html cannot be opened.
+
+!ENTRY ilog.odms.ide.opllang 1 0 2024-04-22 14:52:16.750
+!MESSAGE concert_wrap.IloEndMT
+
+!ENTRY org.eclipse.debug.core 4 125 2024-04-22 14:52:23.323
+!MESSAGE Error logged from Debug Core: 
+!STACK 1
+org.eclipse.debug.core.DebugException: Terminate failed
+	at org.eclipse.debug.core.Launch.terminate(Launch.java:296)
+	at org.eclipse.debug.internal.core.LaunchManager.shutdown(LaunchManager.java:2346)
+	at org.eclipse.debug.core.DebugPlugin.stop(DebugPlugin.java:706)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:875)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:867)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:1046)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:376)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:660)
+	at org.eclipse.osgi.container.Module.stop(Module.java:521)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1893)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1768)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:275)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:208)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:660)
+	at org.eclipse.osgi.container.Module.stop(Module.java:521)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:207)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:226)
+	at java.base/java.lang.Thread.run(Unknown Source)
+!SUBENTRY 1 org.eclipse.debug.core 4 5010 2024-04-22 14:52:23.327
+!MESSAGE Terminate failed
+!SESSION 2024-04-23 10:52:23.961 -----------------------------------------------
+eclipse.buildId=Build Community Edition
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/papemayeldiagnethiam/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -clean -keyring /Users/papemayeldiagnethiam/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 2 2024-04-23 10:53:01.787
+!MESSAGE Invalid preference category path: org.eclipse.wst.html.ui.preferences.web (bundle: org.eclipse.wst.jsdt.ui, page: org.eclipse.wst.jsdt.ui.preferences.JavaBasePreferencePage)
+
+!ENTRY ilog.odms.ide.core 1 0 2024-04-23 10:53:02.050
+!MESSAGE ODM Bundle is OFF
+
+!ENTRY ilog.odms.ide.ui 1 0 2024-04-23 10:53:02.768
+!MESSAGE /Applications/CPLEX_Studio_Community2211/cplex/bin/arm64_osx/cpxchecklic: Exiting with code 1
+!SESSION 2024-04-23 12:05:05.027 -----------------------------------------------
+eclipse.buildId=Build Community Edition
+java.fullversion=18.0.2-ea+9
+JRE 18 Mac OS X aarch64-64-Bit 20220818_37 (JIT enabled, AOT enabled)
+OpenJ9   - 1d9d16830
+OMR      - b58aa2708
+JCL      - 8406c39ea29 based on jdk-18.0.2+9
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/papemayeldiagnethiam/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -clean -keyring /Users/papemayeldiagnethiam/.eclipse_keyring
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-04-23 12:05:13.744
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 2 2 2024-04-23 12:05:14.810
+!MESSAGE Invalid preference category path: org.eclipse.wst.html.ui.preferences.web (bundle: org.eclipse.wst.jsdt.ui, page: org.eclipse.wst.jsdt.ui.preferences.JavaBasePreferencePage)
+
+!ENTRY ilog.odms.ide.core 1 0 2024-04-23 12:05:15.022
+!MESSAGE ODM Bundle is OFF
+
+!ENTRY ilog.odms.ide.ui 1 0 2024-04-23 12:05:15.667
+!MESSAGE /Applications/CPLEX_Studio_Community2211/cplex/bin/arm64_osx/cpxchecklic: Exiting with code 1
